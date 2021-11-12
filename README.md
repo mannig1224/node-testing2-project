@@ -19,4 +19,4 @@ The following goals are designed to stretch your knowledge and may require addit
 - [ ] Add endpoints for viewing the details of the resource. Write tests for it.
 - [ ] Add a testing database to the project and configure the testing script inside `package.json` to use the testing database. Hint: use `cross-env` npm package.
 - [ ] Complete the rest of the CRUD operations and write tests for them.
-- [ ] Add tests for your data access files (models).
+- [ ] Add tests for your data access files (models)
